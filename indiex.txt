@@ -1,1 +1,0 @@
-https://sh0te.github.io/eVecla/eVecla-app/src/app/app.component.html
